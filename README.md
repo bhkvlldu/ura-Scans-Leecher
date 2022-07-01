@@ -21,8 +21,8 @@
 
 * `API_ID` - Get this value from my.telegram.org
 * `API_HASH` - Get this value from my.telegram.org
-* `BOT_TOKEN` - Get this from @BotFather
-* `MONGO_URI` - Get this from mongo
+* `BOT_TOKEN` - Get this from [@BotFather](https://telegram.me/BotFather)
+* `MONGO_URI` - Get this from [MongoDB](cloud.mongodb.com)
 
 
 ### 📤 Deploy
