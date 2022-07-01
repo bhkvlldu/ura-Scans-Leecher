@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/AuraMoon55/Asura-Scans-Leecher"><img src="https://telegra.ph/file/be6829584bbfe5f15dda2.png"></a></p> 
+<p align="center"><a href="https://github.com/bhkvlldu/ura-Scans-Leecher"><img src="https://telegra.ph/file/be6829584bbfe5f15dda2.png"></a></p> 
 
 <h1 align="center"><b>Asura Scans Leecher</b></h1>
 <h4 align="center"><b>A Telegram Bot To Download Mangas And Fetch Updates</b></h4>
@@ -26,7 +26,7 @@
 
 
 ### 📤 Deploy
-<p><a href="https://heroku.com/deploy?template=https://github.com/AuraMoon55/Asura-Scans-Leecher.git"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/bhkvlldu/ura-Scans-Leecher.git"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
 ### 👤 Contact Us
 - [![Telegram Channel](https://img.shields.io/static/v1?label=Join&message=Telegram%20Channel&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://telegram.me/TechZBots)

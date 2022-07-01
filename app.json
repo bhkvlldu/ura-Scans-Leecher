@@ -10,7 +10,7 @@
     "manga scraper",
     "bot"
   ],
-  "repository": "https://github.com/AuraMoon55/Asura-Scans-Leecher",
+  "repository": "",
   "website": "https://t.me/TechZBots",
   "success_url": "http://t.me/asura_manga_bot",
   "env": {
